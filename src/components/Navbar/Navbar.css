@@ -1,0 +1,24 @@
+nav {
+    display: flex;
+    align-items: center;
+    background-color: #21222A;
+    height: 30px;
+    padding: 30px 25px;
+}
+
+nav h3{
+    margin: 0;
+    margin-right: auto;
+    color: #61DAFB;
+    font-size: 23px;
+}
+
+nav h4{
+    color: #DEEBF8;
+    font-size:16px;
+}
+
+nav img{
+    width: 29px;
+    margin-right: 7.29px;
+}

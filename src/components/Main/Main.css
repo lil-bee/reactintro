@@ -1,0 +1,35 @@
+main{
+    background: #282D35 url('../../assets/reactjs-icon 2.svg') no-repeat right 65%;
+    padding-top: 58px;
+    padding-left: 27px;
+    
+}
+
+main h1, ul{
+    margin: 0;
+}
+
+main h1{
+    
+    font-size: 39.06px;
+    font-weight: bold;
+    letter-spacing: -0.05em;
+}
+
+main ul{
+    margin-top: 40px;
+    max-width: 390px;
+    padding-bottom: 125px;
+}
+
+main ul li {
+    gap: 28px;
+    font-size: 16px;
+    font-weight: regular;
+    padding-block: 10px;
+}
+
+main li::marker{
+    color: #61DAFB;
+    font-size: 1.4rem;
+}
